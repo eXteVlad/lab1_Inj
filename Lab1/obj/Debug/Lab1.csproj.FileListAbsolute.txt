@@ -1,0 +1,18 @@
+C:\Users\Слава\Desktop\Универ\3 курс\пи\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\Слава\Desktop\Универ\3 курс\пи\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\Слава\Desktop\Универ\3 курс\пи\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\Слава\Desktop\Универ\3 курс\пи\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+C:\Users\Слава\Desktop\Универ\3 курс\пи\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\Слава\Desktop\Универ\3 курс\пи\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\Keshman\Desktop\double2\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\Keshman\Desktop\double2\Lab1\obj\Debug\Lab1.exe
+C:\Users\Keshman\Desktop\double2\Lab1\obj\Debug\Lab1.pdb
+C:\Users\Keshman\Desktop\double2\Lab1\bin\Debug\Lab1.exe
+C:\Users\Keshman\Desktop\double2\Lab1\bin\Debug\Lab1.pdb
+C:\Users\Keshman\Desktop\double2\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+C:\Users\extev\Desktop\Study\Инженерный практикум\Лабораторные\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\extev\Desktop\Study\Инженерный практикум\Лабораторные\Lab1\obj\Debug\Lab1.exe
+C:\Users\extev\Desktop\Study\Инженерный практикум\Лабораторные\Lab1\obj\Debug\Lab1.pdb
+C:\Users\extev\Desktop\Study\Инженерный практикум\Лабораторные\Lab1\bin\Debug\Lab1.exe
+C:\Users\extev\Desktop\Study\Инженерный практикум\Лабораторные\Lab1\bin\Debug\Lab1.pdb
+C:\Users\extev\Desktop\Study\Инженерный практикум\Лабораторные\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
